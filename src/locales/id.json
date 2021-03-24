@@ -1,0 +1,28 @@
+{
+  "locales": {
+    "language": "Bahasa",
+    "en": "Inggris",
+    "id": "Indonesia"
+  },
+  "rules": {
+    "required": "Bagian ini harus diisi",
+    "email": "Format email salah",
+    "min": "Panjang minimal karakter",
+    "passwordHint": "Sedikitnya 8 karakter"
+  },
+  "login": {
+    "login": "Masuk",
+    "username": "Username",
+    "password": "Kata Sandi",
+    "forgotPassword": "Lupa Sandi"
+  },
+  "nav": {
+    "logout": "Keluar",
+    "home": "Beranda",
+    "cardManagement": "Manajemen Kartu",
+    "history": "Riwayat",
+    "supplierInformation": "Informasi Supplier",
+    "generateCard": "Buat Kartu",
+    "cardActivation": "Aktifasi Kartu"
+  }
+}

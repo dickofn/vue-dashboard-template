@@ -1,0 +1,28 @@
+{
+  "locales": {
+    "language": "Language",
+    "en": "English",
+    "id": "Indonesia"
+  },
+  "rules": {
+    "required": "This field is required",
+    "email": "Email format is wrong",
+    "min": "Minimal character length is",
+    "passwordHint": "At least 8 character"
+  },
+  "login": {
+    "login": "Login",
+    "username": "Username",
+    "password": "Password",
+    "forgotPassword": "Forgot Password"
+  },
+  "nav": {
+    "logout": "Logout",
+    "home": "Home",
+    "cardManagement": "Card Management",
+    "history": "History",
+    "supplierInformation": "Supplier Information",
+    "generateCard": "Generate Card",
+    "cardActivation": "Card Activation"
+  }
+}
